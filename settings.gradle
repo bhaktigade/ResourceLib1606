@@ -1,0 +1,3 @@
+rootProject.name = "ResourceApplication1606"
+include ':app'
+include ':ResourceLib1606'
